@@ -2,7 +2,7 @@
 
 This example shows the build of Docker images with the aid of the Spring Boot Maven plugin.
 
-### Docker (en)
+### Docker
 
 #### Local Docker registry
 
